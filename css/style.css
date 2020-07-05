@@ -7,7 +7,7 @@
     left: 0;
 }
 
-/* HØYRESIDEN _ ROCKET  */
+
 
 .right{
     position: fixed;
@@ -34,7 +34,7 @@
     width: 20px;
     height: 100px;
     background-color: blue;
-    transition: bottom 10000ms;
+
 }
 
 .rocket.flying{
